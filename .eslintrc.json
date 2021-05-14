@@ -1,0 +1,9 @@
+{
+  "plugins": ["prettier"],
+  "parseOptions": {
+    "emacVersion": 6
+  },
+  "rules": {
+    "prettier/prettier": "error"
+  }
+}
